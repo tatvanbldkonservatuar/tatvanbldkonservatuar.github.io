@@ -1,4 +1,4 @@
-# tatvanbldkonservatuar.github.io
+# tatvanbldkonservatuar.com.tr
 Sanatın ışığında ilerliyoruz...
 <!DOCTYPE html>
 <html lang="tr">
